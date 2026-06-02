@@ -15,6 +15,7 @@ import {
   type BookingRecord,
 } from "@/lib/booking-store";
 type AdminTab = "weekly" | "special" | "closure" | "bookings";
+const ADMIN_PASSWORD = "123456";
 
 const inputClass =
   "w-full px-3 py-2.5 rounded-xl bg-cream/80 border border-pink-light/60 text-warm-text text-sm focus:outline-none focus:ring-2 focus:ring-pink/40 focus:border-pink";
