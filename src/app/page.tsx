@@ -125,7 +125,7 @@ function TimeSlotGrid({
                 ? "bg-cream-dark/50 text-warm-light line-through cursor-not-allowed"
                 : isSelected
                 ? "bg-gradient-to-br from-pink to-pink-accent text-white shadow-soft"
-                : "bg-white/80 text-warm-text shadow-card hover:shadow-soft active:scale-95"S
+                : "bg-white/80 text-warm-text shadow-card hover:shadow-soft active:scale-95"
               }
             `}
           >
